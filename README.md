@@ -69,7 +69,7 @@ New contributors: look for issues labelled `good first issue`.
 
 ## Maintainer
 
-Built and maintained by **Asad Faizee** ([@Faizee-Asad](https://github.com/Faizee-Asad)) — Noor Infotech, Malegaon, Maharashtra (software & school ERP — Wigital Campus, since 2010).
+Built and maintained by **Asad Faizee** ([@Faizee-Asad](https://github.com/Faizee-Asad)) — Noor Infotech, Malegaon, Maharashtra.
 
 ## License
 
