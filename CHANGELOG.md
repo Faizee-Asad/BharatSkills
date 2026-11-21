@@ -9,6 +9,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/), versions follow 
 - `salary-slip-india` — Indian salary slip format and checking: PF/ESI/Professional Tax deductions, paid-days/LOP calculation, worked examples.
 - `hindi-typing-helper` — Kruti Dev ↔ Unicode conversion workflow, font/layout guidance, government Hindi typing-exam preparation.
 - `resume-fresher-india` — fresher resume builder for Indian job portals: structure, role-specific objective, projects-over-experience approach, ATS-friendly formatting.
+- `festival-offer-planner` — festival offer and campaign planning for Indian businesses: festival calendar, T-minus timeline, honest offer design, Diwali/Eid/Rakhi WhatsApp templates.
 
 ## [0.1.0] - 2026-11-20
 
