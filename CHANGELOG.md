@@ -5,6 +5,9 @@ Format follows [Keep a Changelog](https://keepachangelog.com/), versions follow 
 
 ## [Unreleased]
 
+### Added
+- `salary-slip-india` — Indian salary slip format and checking: PF/ESI/Professional Tax deductions, paid-days/LOP calculation, worked examples.
+
 ## [0.1.0] - 2026-11-20
 
 ### Added
