@@ -17,13 +17,13 @@ Claim one by opening an issue first (so two people don't build the same skill),
 then follow the steps below.
 
 ### 🔴 HIGH priority — Business & Finance
-- [ ] `salary-slip-india` — salary slip + payroll prep with PF / ESI / Professional Tax
+- [x] `salary-slip-india` — salary slip + payroll prep with PF / ESI / Professional Tax
 - [ ] `shopkeeper-ledger` — daily sales / udhaar (credit) ledger format for small shops
 - [ ] `freelancer-proposal-india` — proposal + quotation for Indian clients, UPI / milestone payment terms
 - [ ] `dpdp-basics` — DPDP Act privacy basics checklist for small businesses (general info only)
 
 ### 🔴 HIGH priority — Language & Government
-- [ ] `hindi-typing-helper` — Kruti Dev ↔ Unicode workflow, government typing-exam context
+- [x] `hindi-typing-helper` — Kruti Dev ↔ Unicode workflow, government typing-exam context
 - [ ] `govt-form-helper` — how to read a government form and build a document checklist (public process only — never collect personal IDs)
 - [ ] `hinglish-content-writer` — Hinglish ad / social copy for Indian businesses
 
