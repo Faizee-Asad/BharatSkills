@@ -15,6 +15,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 | Skill | Use it when you need to… | Languages |
 |---|---|---|
 | `whatsapp-business-writer` | Reply to customers on WhatsApp, send offers, order updates and follow-ups | English · Hinglish · Hindi |
+| `festival-offer-planner` | Plan festival offers and campaigns — timeline, honest discount design, greeting + offer messages | English · Hinglish |
 
 ## Education
 
