@@ -10,6 +10,8 @@ Format follows [Keep a Changelog](https://keepachangelog.com/), versions follow 
 - `hindi-typing-helper` — Kruti Dev ↔ Unicode conversion workflow, font/layout guidance, government Hindi typing-exam preparation.
 - `resume-fresher-india` — fresher resume builder for Indian job portals: structure, role-specific objective, projects-over-experience approach, ATS-friendly formatting.
 - `festival-offer-planner` — festival offer and campaign planning for Indian businesses: festival calendar, T-minus timeline, honest offer design, Diwali/Eid/Rakhi WhatsApp templates.
+- `marriage-biodata-maker` — marriage biodata formats for Indian families: traditional Hindu (with kundali block), Muslim, and modern WhatsApp-short formats, with privacy guidance.
+- `school-admission-helper` — school admission enquiry handling: same-day parent replies, document checklist, 3-touch follow-up, confirmation messages.
 
 ## [0.1.0] - 2026-11-20
 
