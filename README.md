@@ -24,8 +24,10 @@ A drop-in skill bundle that teaches your AI assistant how work actually happens 
 | Business & Communication | `whatsapp-business-writer` | WhatsApp replies, offers, order updates and follow-ups the way Indian customers actually chat |
 | Business & Communication | `festival-offer-planner` | Festival offers and campaigns for Indian shops — Diwali, Eid, Rakhi, Onam — timeline, honest offers, ready messages |
 | Education | `school-fee-reminder` | Respectful fee reminders for parents — English / Hindi / Marathi templates, receipt follow-ups |
+| Education | `school-admission-helper` | Admission enquiries, parent replies, document checklists and follow-ups for schools |
 | Education | `hindi-typing-helper` | Kruti Dev ↔ Unicode conversion workflow, font/layout choices, government typing-exam preparation |
 | Career & Jobs | `resume-fresher-india` | Fresher resume for Naukri/LinkedIn/Internshala — structure, objective, projects, ATS-friendly format |
+| Everyday India | `marriage-biodata-maker` | Marriage biodata formats — traditional, Muslim and modern short formats in Hindi/English |
 
 **Coming soon (help wanted — see [CONTRIBUTING.md](CONTRIBUTING.md)):**
 `exam-planner-india` · `freelancer-proposal-india` · `dpdp-basics` · `shopkeeper-ledger` · `govt-form-helper` · `hinglish-content-writer` · and 12+ more listed as good-first-issues.
