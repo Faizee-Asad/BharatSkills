@@ -21,6 +21,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 | Skill | Use it when you need to… | Languages |
 |---|---|---|
 | `school-fee-reminder` | Send a school/college fee reminder to parents and follow up on receipts | English · Hindi · Marathi |
+| `hindi-typing-helper` | Convert Kruti Dev ↔ Unicode, choose the right Hindi font/layout, prepare for typing exams | English · Hindi |
 
 ---
 
