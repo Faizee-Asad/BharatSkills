@@ -8,6 +8,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 |---|---|---|
 | `gst-invoice-helper` | Create or check a GST invoice — tax split, place of supply, HSN/SAC summary | English |
 | `upi-payment-followup` | Remind a customer/client to pay by UPI — politely first, firmly later | English · Hinglish · Hindi |
+| `salary-slip-india` | Create or check an Indian salary slip — PF/ESI/Professional Tax deductions, paid days & net pay | English |
 
 ## Business & Communication
 
