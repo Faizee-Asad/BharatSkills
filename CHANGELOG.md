@@ -7,6 +7,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/), versions follow 
 
 ### Added
 - `salary-slip-india` — Indian salary slip format and checking: PF/ESI/Professional Tax deductions, paid-days/LOP calculation, worked examples.
+- `hindi-typing-helper` — Kruti Dev ↔ Unicode conversion workflow, font/layout guidance, government Hindi typing-exam preparation.
 
 ## [0.1.0] - 2026-11-20
 
