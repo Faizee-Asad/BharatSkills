@@ -20,11 +20,13 @@ A drop-in skill bundle that teaches your AI assistant how work actually happens 
 |---|---|---|
 | Business & Finance | `gst-invoice-helper` | GST invoice structure, CGST/SGST vs IGST logic, HSN/SAC summary, common mistakes |
 | Business & Finance | `upi-payment-followup` | Polite-to-firm UPI payment reminders in English / Hinglish / Hindi |
+| Business & Finance | `salary-slip-india` | Indian salary slip format — PF/ESI/Professional Tax deductions, paid-days/LOP calculation, worked examples |
 | Business & Communication | `whatsapp-business-writer` | WhatsApp replies, offers, order updates and follow-ups the way Indian customers actually chat |
 | Education | `school-fee-reminder` | Respectful fee reminders for parents — English / Hindi / Marathi templates, receipt follow-ups |
+| Education | `hindi-typing-helper` | Kruti Dev ↔ Unicode conversion workflow, font/layout choices, government typing-exam preparation |
 
 **Coming soon (help wanted — see [CONTRIBUTING.md](CONTRIBUTING.md)):**
-`hindi-typing-helper` · `exam-planner-india` · `freelancer-proposal-india` · `dpdp-basics` · `salary-slip-india` · `shopkeeper-ledger` · `govt-form-helper` · `hinglish-content-writer` · and 12+ more listed as good-first-issues.
+`exam-planner-india` · `freelancer-proposal-india` · `dpdp-basics` · `shopkeeper-ledger` · `govt-form-helper` · `hinglish-content-writer` · and 12+ more listed as good-first-issues.
 
 Full searchable catalog → [docs/skills.md](docs/skills.md)
 
