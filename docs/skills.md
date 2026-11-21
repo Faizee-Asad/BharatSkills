@@ -23,12 +23,19 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 |---|---|---|
 | `school-fee-reminder` | Send a school/college fee reminder to parents and follow up on receipts | English · Hindi · Marathi |
 | `hindi-typing-helper` | Convert Kruti Dev ↔ Unicode, choose the right Hindi font/layout, prepare for typing exams | English · Hindi |
+| `school-admission-helper` | Handle admission enquiries — parent replies, document checklist, follow-ups, confirmation | English · Hinglish |
 
 ## Career & Jobs
 
 | Skill | Use it when you need to… | Languages |
 |---|---|---|
 | `resume-fresher-india` | Build a fresher resume for Naukri, LinkedIn or Internshala — objective, projects, ATS-friendly format | English |
+
+## Everyday India
+
+| Skill | Use it when you need to… | Languages |
+|---|---|---|
+| `marriage-biodata-maker` | Make a marriage biodata — traditional, Muslim or modern short format | English · Hindi |
 
 ---
 
