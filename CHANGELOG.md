@@ -12,6 +12,8 @@ Format follows [Keep a Changelog](https://keepachangelog.com/), versions follow 
 - `festival-offer-planner` — festival offer and campaign planning for Indian businesses: festival calendar, T-minus timeline, honest offer design, Diwali/Eid/Rakhi WhatsApp templates.
 - `marriage-biodata-maker` — marriage biodata formats for Indian families: traditional Hindu (with kundali block), Muslim, and modern WhatsApp-short formats, with privacy guidance.
 - `school-admission-helper` — school admission enquiry handling: same-day parent replies, document checklist, 3-touch follow-up, confirmation messages.
+- `loan-emi-helper` — loan and EMI explainer for Indian borrowers: EMI maths with worked examples, reducing vs flat rate trap, bank vs NBFC total-cost comparison, prepayment rules.
+- `traffic-challan-helper` — traffic e-challan guide: verify/pay only on the official Parivahan portal, contesting a wrong challan (grievance / Virtual Court / Lok Adalat), and spotting fake challan SMS scams.
 
 ## [0.1.0] - 2026-11-20
 
