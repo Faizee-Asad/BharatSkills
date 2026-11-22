@@ -1,6 +1,6 @@
 ---
 name: traffic-challan-helper
-description: Help an Indian vehicle owner check, understand, pay or contest a traffic e-challan — in simple language: verify a challan on the official Parivahan portal, pay it safely, dispute a wrong challan through grievance / Virtual Court / Lok Adalat, and spot fake challan SMS scams. Use when the user asks "challan check karo", "challan kaise bhare", "galat challan aaya hai", "challan SMS aaya hai — sahi hai ya fake", or wants to know what happens if a challan is left unpaid.
+description: Help an Indian vehicle owner check, understand, pay or contest a traffic e-challan — in simple language — verify a challan on the official Parivahan portal, pay it safely, dispute a wrong challan through grievance / Virtual Court / Lok Adalat, and spot fake challan SMS scams. Use when the user asks "challan check karo", "challan kaise bhare", "galat challan aaya hai", "challan SMS aaya hai — sahi hai ya fake", or wants to know what happens if a challan is left unpaid.
 ---
 
 # Traffic Challan Helper
