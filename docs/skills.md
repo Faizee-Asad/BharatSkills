@@ -9,6 +9,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 | `gst-invoice-helper` | Create or check a GST invoice — tax split, place of supply, HSN/SAC summary | English |
 | `upi-payment-followup` | Remind a customer/client to pay by UPI — politely first, firmly later | English · Hinglish · Hindi |
 | `salary-slip-india` | Create or check an Indian salary slip — PF/ESI/Professional Tax deductions, paid days & net pay | English |
+| `loan-emi-helper` | Understand, calculate and compare loans & EMIs — reducing vs flat rate, total cost, prepayment | English · Hinglish |
 
 ## Business & Communication
 
@@ -36,6 +37,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 | Skill | Use it when you need to… | Languages |
 |---|---|---|
 | `marriage-biodata-maker` | Make a marriage biodata — traditional, Muslim or modern short format | English · Hindi |
+| `traffic-challan-helper` | Check, pay or contest a traffic e-challan safely — official portal only, fake-SMS scam check | English · Hinglish |
 
 ---
 
