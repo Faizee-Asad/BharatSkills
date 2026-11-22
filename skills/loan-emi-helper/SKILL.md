@@ -1,6 +1,6 @@
 ---
 name: loan-emi-helper
-description: Help an Indian borrower understand, calculate and compare loans and EMIs — personal, home, vehicle and education loans — in simple language: EMI maths, reducing vs flat rate, bank vs NBFC comparison, prepayment and common traps. Use when the user asks "EMI kitni banegi", "loan lena hai", "EMI calculate karo", "bank vs NBFC kaun sa loan better", "prepayment karna chahiye", or wants to compare loan offers.
+description: Help an Indian borrower understand, calculate and compare loans and EMIs — personal, home, vehicle and education loans — in simple language — EMI maths, reducing vs flat rate, bank vs NBFC comparison, prepayment and common traps. Use when the user asks "EMI kitni banegi", "loan lena hai", "EMI calculate karo", "bank vs NBFC kaun sa loan better", "prepayment karna chahiye", or wants to compare loan offers.
 ---
 
 # Loan EMI Helper
