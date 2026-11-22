@@ -21,6 +21,7 @@ A drop-in skill bundle that teaches your AI assistant how work actually happens 
 | Business & Finance | `gst-invoice-helper` | GST invoice structure, CGST/SGST vs IGST logic, HSN/SAC summary, common mistakes |
 | Business & Finance | `upi-payment-followup` | Polite-to-firm UPI payment reminders in English / Hinglish / Hindi |
 | Business & Finance | `salary-slip-india` | Indian salary slip format — PF/ESI/Professional Tax deductions, paid-days/LOP calculation, worked examples |
+| Business & Finance | `loan-emi-helper` | Loan & EMI maths in simple language — reducing vs flat rate, bank vs NBFC total cost, prepayment rules |
 | Business & Communication | `whatsapp-business-writer` | WhatsApp replies, offers, order updates and follow-ups the way Indian customers actually chat |
 | Business & Communication | `festival-offer-planner` | Festival offers and campaigns for Indian shops — Diwali, Eid, Rakhi, Onam — timeline, honest offers, ready messages |
 | Education | `school-fee-reminder` | Respectful fee reminders for parents — English / Hindi / Marathi templates, receipt follow-ups |
@@ -28,6 +29,7 @@ A drop-in skill bundle that teaches your AI assistant how work actually happens 
 | Education | `hindi-typing-helper` | Kruti Dev ↔ Unicode conversion workflow, font/layout choices, government typing-exam preparation |
 | Career & Jobs | `resume-fresher-india` | Fresher resume for Naukri/LinkedIn/Internshala — structure, objective, projects, ATS-friendly format |
 | Everyday India | `marriage-biodata-maker` | Marriage biodata formats — traditional, Muslim and modern short formats in Hindi/English |
+| Everyday India | `traffic-challan-helper` | Check, pay or contest a traffic e-challan safely — official Parivahan portal only, fake-SMS scam protection |
 
 **Coming soon (help wanted — see [CONTRIBUTING.md](CONTRIBUTING.md)):**
 `exam-planner-india` · `freelancer-proposal-india` · `dpdp-basics` · `shopkeeper-ledger` · `govt-form-helper` · `hinglish-content-writer` · and 12+ more listed as good-first-issues.
