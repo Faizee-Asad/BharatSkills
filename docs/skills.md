@@ -26,6 +26,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 | `school-fee-reminder` | Send a school/college fee reminder to parents and follow up on receipts | English · Hindi · Marathi |
 | `hindi-typing-helper` | Convert Kruti Dev ↔ Unicode, choose the right Hindi font/layout, prepare for typing exams | English · Hindi |
 | `school-admission-helper` | Handle admission enquiries — parent replies, document checklist, follow-ups, confirmation | English · Hinglish |
+| `exam-planner-india` | Plan GATE/SSC/UPSC preparation — study timetable, syllabus tracking, mock score analysis, revision cycles | English · Hinglish |
 
 ## Career & Jobs
 
