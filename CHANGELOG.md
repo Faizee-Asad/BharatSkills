@@ -14,6 +14,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/), versions follow 
 - `school-admission-helper` — school admission enquiry handling: same-day parent replies, document checklist, 3-touch follow-up, confirmation messages.
 - `loan-emi-helper` — loan and EMI explainer for Indian borrowers: EMI maths with worked examples, reducing vs flat rate trap, bank vs NBFC total-cost comparison, prepayment rules.
 - `traffic-challan-helper` — traffic e-challan guide: verify/pay only on the official Parivahan portal, contesting a wrong challan (grievance / Virtual Court / Lok Adalat), and spotting fake challan SMS scams.
+- `freelancer-proposal-india` — proposal and quotation builder for Indian freelancers: scope-first pricing, 50/30/20 milestone payments, revision caps, GST line, worked examples and a late-payment follow-up template.
 
 ## [0.1.0] - 2026-11-20
 
