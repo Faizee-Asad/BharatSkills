@@ -31,6 +31,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 | Skill | Use it when you need to… | Languages |
 |---|---|---|
 | `resume-fresher-india` | Build a fresher resume for Naukri, LinkedIn or Internshala — objective, projects, ATS-friendly format | English |
+| `freelancer-proposal-india` | Write a client proposal & quotation — scope, milestones, advance, revisions and payment terms | English · Hinglish |
 
 ## Everyday India
 
