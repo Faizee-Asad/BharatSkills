@@ -28,6 +28,7 @@ A drop-in skill bundle that teaches your AI assistant how work actually happens 
 | Education | `school-admission-helper` | Admission enquiries, parent replies, document checklists and follow-ups for schools |
 | Education | `hindi-typing-helper` | Kruti Dev ↔ Unicode conversion workflow, font/layout choices, government typing-exam preparation |
 | Career & Jobs | `resume-fresher-india` | Fresher resume for Naukri/LinkedIn/Internshala — structure, objective, projects, ATS-friendly format |
+| Career & Jobs | `freelancer-proposal-india` | Client proposals & quotations for Indian freelancers — scope, milestones, advance and UPI payment terms |
 | Everyday India | `marriage-biodata-maker` | Marriage biodata formats — traditional, Muslim and modern short formats in Hindi/English |
 | Everyday India | `traffic-challan-helper` | Check, pay or contest a traffic e-challan safely — official Parivahan portal only, fake-SMS scam protection |
 
