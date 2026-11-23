@@ -28,7 +28,7 @@ then follow the steps below.
 - [ ] `hinglish-content-writer` — Hinglish ad / social copy for Indian businesses
 
 ### 🟡 Wanted — Education
-- [ ] `exam-planner-india` — GATE / SSC / UPSC / state-exam study and score planning
+- [x] `exam-planner-india` — GATE / SSC / UPSC / state-exam study and score planning
 - [ ] `school-timetable-helper` — period / timetable planning for Indian schools
 - [ ] `result-sheet-helper` — marksheet / result summary in school formats
 
