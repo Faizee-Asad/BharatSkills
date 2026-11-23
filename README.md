@@ -27,6 +27,7 @@ A drop-in skill bundle that teaches your AI assistant how work actually happens 
 | Business & Communication | `festival-offer-planner` | Festival offers and campaigns for Indian shops — Diwali, Eid, Rakhi, Onam — timeline, honest offers, ready messages |
 | Education | `school-fee-reminder` | Respectful fee reminders for parents — English / Hindi / Marathi templates, receipt follow-ups |
 | Education | `school-admission-helper` | Admission enquiries, parent replies, document checklists and follow-ups for schools |
+| Education | `exam-planner-india` | GATE/SSC/UPSC study planning — days-and-hours maths, syllabus weight split, mock analysis, revision cycles |
 | Education | `hindi-typing-helper` | Kruti Dev ↔ Unicode conversion workflow, font/layout choices, government typing-exam preparation |
 | Career & Jobs | `resume-fresher-india` | Fresher resume for Naukri/LinkedIn/Internshala — structure, objective, projects, ATS-friendly format |
 | Career & Jobs | `freelancer-proposal-india` | Client proposals & quotations for Indian freelancers — scope, milestones, advance and UPI payment terms |
