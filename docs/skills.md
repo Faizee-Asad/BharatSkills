@@ -10,6 +10,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 | `upi-payment-followup` | Remind a customer/client to pay by UPI — politely first, firmly later | English · Hinglish · Hindi |
 | `salary-slip-india` | Create or check an Indian salary slip — PF/ESI/Professional Tax deductions, paid days & net pay | English |
 | `loan-emi-helper` | Understand, calculate and compare loans & EMIs — reducing vs flat rate, total cost, prepayment | English · Hinglish |
+| `shopkeeper-ledger` | Keep a daily sales & udhaar ledger — cash/UPI/credit sales, closing tally, udhaar recovery & ageing | English · Hinglish |
 
 ## Business & Communication
 
