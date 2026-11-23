@@ -18,7 +18,7 @@ then follow the steps below.
 
 ### 🔴 HIGH priority — Business & Finance
 - [x] `salary-slip-india` — salary slip + payroll prep with PF / ESI / Professional Tax
-- [ ] `shopkeeper-ledger` — daily sales / udhaar (credit) ledger format for small shops
+- [x] `shopkeeper-ledger` — daily sales / udhaar (credit) ledger format for small shops
 - [x] `freelancer-proposal-india` — proposal + quotation for Indian clients, UPI / milestone payment terms
 - [ ] `dpdp-basics` — DPDP Act privacy basics checklist for small businesses (general info only)
 
