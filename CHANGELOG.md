@@ -15,6 +15,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/), versions follow 
 - `loan-emi-helper` — loan and EMI explainer for Indian borrowers: EMI maths with worked examples, reducing vs flat rate trap, bank vs NBFC total-cost comparison, prepayment rules.
 - `traffic-challan-helper` — traffic e-challan guide: verify/pay only on the official Parivahan portal, contesting a wrong challan (grievance / Virtual Court / Lok Adalat), and spotting fake challan SMS scams.
 - `freelancer-proposal-india` — proposal and quotation builder for Indian freelancers: scope-first pricing, 50/30/20 milestone payments, revision caps, GST line, worked examples and a late-payment follow-up template.
+- `shopkeeper-ledger` — daily ledger format for Indian shops: cash/UPI/udhaar sales columns, closing cash tally with short/excess tracking, udhaar khata with 0–7/8–30/30+ day ageing, weekly summary and a polite Hinglish recovery reminder.
 
 ## [0.1.0] - 2026-11-20
 
