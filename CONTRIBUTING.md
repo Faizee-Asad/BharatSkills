@@ -20,7 +20,7 @@ then follow the steps below.
 - [x] `salary-slip-india` — salary slip + payroll prep with PF / ESI / Professional Tax
 - [x] `shopkeeper-ledger` — daily sales / udhaar (credit) ledger format for small shops
 - [x] `freelancer-proposal-india` — proposal + quotation for Indian clients, UPI / milestone payment terms
-- [ ] `dpdp-basics` — DPDP Act privacy basics checklist for small businesses (general info only)
+- [x] `dpdp-basics` — DPDP Act privacy basics checklist for small businesses (general info only)
 
 ### 🔴 HIGH priority — Language & Government
 - [x] `hindi-typing-helper` — Kruti Dev ↔ Unicode workflow, government typing-exam context
