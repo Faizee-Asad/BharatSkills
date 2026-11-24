@@ -23,6 +23,7 @@ A drop-in skill bundle that teaches your AI assistant how work actually happens 
 | Business & Finance | `salary-slip-india` | Indian salary slip format — PF/ESI/Professional Tax deductions, paid-days/LOP calculation, worked examples |
 | Business & Finance | `loan-emi-helper` | Loan & EMI maths in simple language — reducing vs flat rate, bank vs NBFC total cost, prepayment rules |
 | Business & Finance | `shopkeeper-ledger` | Daily sales & udhaar ledger for small shops — cash/UPI/credit columns, closing cash tally, udhaar ageing |
+| Business & Finance | `dpdp-basics` | DPDP Act privacy basics for small businesses — consent & notice, retention & deletion, children's data, breach plan |
 | Business & Communication | `whatsapp-business-writer` | WhatsApp replies, offers, order updates and follow-ups the way Indian customers actually chat |
 | Business & Communication | `festival-offer-planner` | Festival offers and campaigns for Indian shops — Diwali, Eid, Rakhi, Onam — timeline, honest offers, ready messages |
 | Education | `school-fee-reminder` | Respectful fee reminders for parents — English / Hindi / Marathi templates, receipt follow-ups |
