@@ -17,6 +17,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/), versions follow 
 - `freelancer-proposal-india` — proposal and quotation builder for Indian freelancers: scope-first pricing, 50/30/20 milestone payments, revision caps, GST line, worked examples and a late-payment follow-up template.
 - `shopkeeper-ledger` — daily ledger format for Indian shops: cash/UPI/udhaar sales columns, closing cash tally with short/excess tracking, udhaar khata with 0–7/8–30/30+ day ageing, weekly summary and a polite Hinglish recovery reminder.
 - `exam-planner-india` — competitive-exam study planner for GATE/SSC/UPSC: count days and hours first (10% buffer), split syllabus by weight, weekly timetable split, mock-test analysis with GATE negative-marking maths, error notebook and 3 revision cycles.
+- `dpdp-basics` — DPDP Act privacy basics for Indian small businesses: data inventory, consent and notice rules, retention and deletion schedule, children's data, customer rights handling, breach plan, and copy-ready Hinglish/English templates (main duties apply from 13 May 2027).
 
 ## [0.1.0] - 2026-11-20
 
