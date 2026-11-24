@@ -11,6 +11,7 @@ Searchable list of every skill in BharatSkills. One skill = one folder in `skill
 | `salary-slip-india` | Create or check an Indian salary slip — PF/ESI/Professional Tax deductions, paid days & net pay | English |
 | `loan-emi-helper` | Understand, calculate and compare loans & EMIs — reducing vs flat rate, total cost, prepayment | English · Hinglish |
 | `shopkeeper-ledger` | Keep a daily sales & udhaar ledger — cash/UPI/credit sales, closing tally, udhaar recovery & ageing | English · Hinglish |
+| `dpdp-basics` | DPDP Act privacy basics for small businesses — consent & notice, retention & deletion, children's data, breach plan, ready templates | English · Hinglish |
 
 ## Business & Communication
 
